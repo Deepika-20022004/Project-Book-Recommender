@@ -20,8 +20,8 @@ This project is a book recommender system that uses natural language processing 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Deepika-20022004/Project-Book-Recommender.git
+    cd "Project-Book-Recommender"
     ```
 
 2.  **Create and activate a virtual environment:**
